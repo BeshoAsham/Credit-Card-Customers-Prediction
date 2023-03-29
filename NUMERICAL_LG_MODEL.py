@@ -37,7 +37,7 @@ import seaborn as sns
 # In[3]:
 
 
-dataset = pd.read_csv ("E:\\FCAI - HU\\LEVEL 3\\1ST TERM\\Selected 1\\project\\numrical DATASET\\BankChurners.csv")
+dataset = pd.read_csv ("BankChurners.csv")
 
 #dataset.columns.values[-1] = 'classification'
 dataset.head()
